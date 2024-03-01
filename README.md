@@ -6,4 +6,4 @@
 
 ### Polymorphism
 
-### Data abstraction
+### Abstraction
